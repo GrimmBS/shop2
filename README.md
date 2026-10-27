@@ -81,4 +81,4 @@
 ```bash
 g++ -std=c++11 -Wall -o shop *.cpp
 ./shop
-```
+```<img width="2041" height="1828" alt="uml" src="https://github.com/user-attachments/assets/b23b256a-f962-4289-b81f-68062396a9d6" />
